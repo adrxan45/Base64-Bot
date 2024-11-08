@@ -3,4 +3,4 @@ A simple Bot to encode or decode strings in Base64.
 
 ## Encode 
 > Use the command `/encode` to endcode to base64.
-![e](https://imgur.com/a/2uZWh78)
+![](https://imgur.com/a/2uZWh78)
