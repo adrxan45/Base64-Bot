@@ -1,3 +1,5 @@
+[![Discord Bots](https://top.gg/api/widget/1302570462072803368.svg)(https://top.gg/bot/1302570462072803368)
+
 # ![e](https://cdn.discordapp.com/emojis/1304172810532290560.webp?size=44&quality=lossless) Base64-Bot
 A simple Discord App to encode or decode strings in Base64.
 
