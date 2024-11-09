@@ -1,4 +1,3 @@
-[![Discord Bots](https://top.gg/api/widget/1302570462072803368.svg)(https://top.gg/bot/1302570462072803368)
 
 # ![e](https://cdn.discordapp.com/emojis/1304172810532290560.webp?size=44&quality=lossless) Base64-Bot
 A simple Discord App to encode or decode strings in Base64.
@@ -18,3 +17,5 @@ A simple Discord App to encode or decode strings in Base64.
 
 > ![e](https://cdn.discordapp.com/emojis/1304496405141913630.webp?size=20&quality=lossless) [**User Install**](https://discord.com/oauth2/authorize?client_id=1302570462072803368&integration_type=1&scope=applications.commands)
 
+![Discord Bots](https://top.gg/api/widget/1302570462072803368.svg)
+ 
